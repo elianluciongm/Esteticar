@@ -1,0 +1,26 @@
+LAVA-RÁPIDO ESTETICAR — SITE COMPLETO
+====================================
+
+Arquivos incluídos:
+- index.html: conteúdo e estrutura da página
+- style.css: cores, layout e adaptação para celular
+- script.js: menu, horário automático e formulário de WhatsApp
+- assets/favicon.svg: ícone do site
+
+COMO USAR
+1. Extraia a pasta inteira.
+2. Abra o arquivo index.html em um navegador (Chrome, Edge, etc.).
+3. Para publicar, envie todos os arquivos preservando a estrutura de pastas à sua hospedagem.
+
+FUNCIONALIDADES
+- Site responsivo para celular, tablet e computador.
+- Botão de WhatsApp e formulário que monta uma mensagem de contato; a confirmação do atendimento depende da equipe.
+- Endereço e acesso ao Google Maps.
+- Horário com indicação automática do funcionamento, considerando o horário de Rio Verde (Brasília).
+- Seção de depoimentos de clientes.
+
+OBSERVAÇÕES
+- As fotografias ilustrativas e fontes são carregadas da internet.
+- Preços e a lista exata de serviços devem ser confirmados com a empresa; o site não cria reservas automaticamente.
+- Avaliações, horários e número de telefone foram fornecidos pelo solicitante e podem precisar ser atualizados no futuro.
+- É possível abrir o HTML diretamente ou servir os arquivos por um servidor HTTP comum.
